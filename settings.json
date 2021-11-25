@@ -1,0 +1,49 @@
+{
+  "html.suggest.html5": true,
+  "editor.linkedEditing": true,
+  "[html]": {
+    "editor.foldingStrategy": "indentation"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.showSuggestionsAsSnippets": true,
+  "editor.snippetSuggestions": "top",
+  "html.validate.scripts": true,
+  "html.validate.styles": true,
+  "editor.fontSize": 15,
+  "files.autoSave": "off",
+  "editor.tabSize": 1,
+  "editor.wordWrap": "on",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "terminal.integrated.fontSize": 14,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.preferredDarkColorTheme": "Monokai",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.editor.splitInGroupLayout": "vertical",
+  "workbench.colorTheme": "Dobri Next -A01- Dark",
+  "glassit.alpha": 255,
+  "background.useDefault": false,
+  "background.style": {
+    "content": "''",
+    "pointer-events": "none",
+    "position": "absolute",
+    "z-index": "99999",
+    "width": "100%",
+    "height": "100%",
+    "left": "0",
+    "top": "0",
+    "background-position": "center",
+    "background-size": "cover",
+    "background-repeat": "no-repeat",
+    "opacity": 0.3
+  },
+  "background.customImages": [
+    "https://i.pinimg.com/originals/9a/c1/9d/9ac19dd1d82ce23fa7839251bab7d7d5.jpg"
+  ]
+}
